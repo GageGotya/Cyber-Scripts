@@ -36,7 +36,7 @@ Each script will include:
 
 ## 🚀 Why This Repo Exists
 
-These are the tools I reach for when I’m working in the trenches of my lab. Some are small one-liners, others are full-on utility scripts—but every one of them solves a real problem I’ve faced.
+These are the scripts I reach for when I’m working in the trenches of my lab. Some are small one-liners, others are full-on utility scripts, but every one of them solves a real problem I’ve faced.
 
 ---
 
