@@ -1,6 +1,6 @@
 # ⚙️ Cyber Scripts
 
-A personal collection of cybersecurity-related scripts I’ve written to streamline recon, automate tasks, and enhance my home lab operations.
+A personal collection of cybersecurity-related scripts I’ve written to automate enumeration or brute forcing, and enhance my home lab operations.
 
 ---
 
