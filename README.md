@@ -25,7 +25,7 @@ Each one is designed to save time, reduce friction, or give me an edge during se
 
 ---
 
-## 📁 Structure (Coming Soon)
+## 📁 Structure
 Each script will include:
 - Description of its purpose
 - How to run it
